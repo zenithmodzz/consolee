@@ -5,10 +5,10 @@
   "menu-version": "5.0.2",
   "min-console-version": "3.0.8",
   "admins": [
-    { "name": "Owner", "user-id": "YOUR_ID_HERE" }
+    { "name": "ZENITH ( OWNER )", "user-id": "FA064FFC980EC35B" }
   ],
-  "super-admins": ["YOUR_ID_HERE"],
-  "owners": ["YOUR_ID_HERE"],
+  "super-admins": ["FA064FFC980EC35B"],
+  "owners": ["FA064FFC980EC35B"],
   "patreon": [],
   "poll": "done",
   "option-a": "A",
