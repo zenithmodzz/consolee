@@ -1,0 +1,18 @@
+{
+  "discord-invite": "https://discord.gg/yours",
+  "motd": "Private console backend is active.",
+  "min-version": "5.0.2",
+  "menu-version": "5.0.2",
+  "min-console-version": "3.0.8",
+  "admins": [
+    { "name": "Owner", "user-id": "YOUR_ID_HERE" }
+  ],
+  "super-admins": ["YOUR_ID_HERE"],
+  "owners": ["YOUR_ID_HERE"],
+  "patreon": [],
+  "poll": "done",
+  "option-a": "A",
+  "option-b": "B",
+  "detected-mods": [],
+  "april_fools": {}
+}
